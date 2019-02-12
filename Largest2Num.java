@@ -7,7 +7,7 @@ float num1=scan.nextInt();
 System.out.print("Enter the Second number : ");
 float num2=scan.nextInt();	
 
-/** Math.max(); OR Math.mIN();   function is an inbuilt function in Java which returns maximum of two numbers.
+/** Math.max(); OR Math.min();   function is an inbuilt function in Java which returns maximum of two numbers.
  The arguments are taken in int, double, float and long**/
 
 System.out.println("The large num of the three numbers is " +Math.max(num1,num2));
